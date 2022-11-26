@@ -1,0 +1,5 @@
+# python virtual env
+/venv_2
+
+# pycache
+/src/lab*/__pycache__
